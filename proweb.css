@@ -1,0 +1,83 @@
+body {
+	background-image: url("pics/joe1.png");
+	font-family:"Aquawax";
+	background-color: black;
+	background-size: 1440px 960px;
+	background-repeat: no-repeat;
+	}
+
+
+.navbar {
+	color: #000000;
+}
+
+.navbar li {
+	list-style-type:none;
+	display:inline;
+	padding:10px;
+	font-family: "Verdana";
+	font-weight: 600;
+}
+
+.navbar li a{
+	text-decoration: none;
+		color: #ffffff;
+}
+
+.icons{
+	padding:5px;
+}
+
+.icons a {	
+	padding:5px;
+	text-decoration: none;
+	float:right;
+	padding-bottom: 10px;
+}
+
+.title{
+	position:absolute;
+	left:60px;
+}
+
+.title h1 {
+/* JOSEPH YOUNG : */
+	font-family: Aquawax-Medium;
+	font-size: 64px;
+	text-align:center;
+	color: #000000;
+	line-height: 102px;
+	text-shadow: 0px 6px 4px rgba(0,0,0,0.50);
+	padding-top: 200px;
+}
+
+.title p {
+/* A HIGH DEFINITION LO: */
+	font-family: Aquawax-Medium;
+	font-size: 36px;
+	text-align:center;
+	color: #000000;
+	line-height: 54px;	
+}
+
+hr {
+	color: black;
+	display: block;
+    margin-top: -1.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+footer {
+	/* ©Joseph Young 2016 j: */
+	opacity: 0.7;
+	font-family: Cochin;
+	font-size: 18px;
+	color: #000;
+	font-weight: 600;
+	line-height: 54px;
+	padding-top: 720px;
+	text-align:center;
+}

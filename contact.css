@@ -1,0 +1,83 @@
+body {
+	background-image: url("pics/joell11.jpg");
+	font-family:"Aquawax";
+	background-color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	}
+
+
+.icons{
+	padding:5px;
+
+}
+
+.icons a {
+	padding:10px;
+	text-decoration: none;
+
+}
+
+.navbar {
+	color: #000000;
+}
+
+.navbar li {
+	list-style-type:none;
+	display:inline;
+	padding:10px;
+	font-family: "Verdana";
+	font-weight: 600;
+	float:left;
+}
+
+.navbar li a{
+	text-decoration: none;
+		color: #ffffff;
+
+}
+
+.title {
+	background-color:white;
+	opacity:.8;
+	margin:200px 200px 200px 200px;
+	border:2px solid black;
+}
+
+.title h1 {
+/* contact : */
+	font-family: Aquawax-Medium;
+	font-size: 64px;
+	text-align:center;
+	color: #000000;
+	line-height: 150%;
+	text-shadow: 0px 6px 4px rgba(0,0,0,0.50);
+}
+
+.title p {
+/* contact info */
+	padding: 0px 40px 40px 40px;
+	opacity:0.89;
+	font-family: "Cochin";
+	font-size: 20px;
+	text-align:center;
+	color: #000000;
+	line-height: 150%;
+
+}
+
+footer {
+	/* ©Joseph Young 2016 j: */
+	opacity: 0.7;
+	font-family: Cochin;
+	font-size: 18px;
+	color: #000;
+	line-height: 54px;
+	padding-top: 190px;
+	text-align: center;
+}
+
+img {
+	float: right;
+	padding-right: 10px;
+}
